@@ -1,0 +1,6 @@
+Speed: Fast
+Element1: GROUND, Element2: FIRE
+Base Stats: Special:65, Attack:49, Defense:49, Speed:45, HP:45
+Moves:
+Pound: 0
+Rock Throw: 15

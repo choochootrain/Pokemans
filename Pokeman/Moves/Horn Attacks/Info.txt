@@ -1,0 +1,7 @@
+Element: NORMAL
+Power: 75
+Accuracy: 90
+PP: 5
+LOWERS: HP
+Status: PSN
+Percent: 50

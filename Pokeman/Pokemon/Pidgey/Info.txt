@@ -1,0 +1,14 @@
+Catch Rate: 255
+Speed: Fading
+Element1: NORMAL, Element2: FLYING
+Base Stats: Special:35, Attack:45, Defense:40, Speed:56, HP:40
+Evolution: Pidgeotto, Level: 18
+Base Exp: 55
+Moves:
+Gust: 0
+Sand Attack: 5
+Quick Attack: 12
+Whirlwind: 19
+Wing Attack: 28
+Agility: 36
+Mirror Move: 44

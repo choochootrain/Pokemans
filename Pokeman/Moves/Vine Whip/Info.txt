@@ -1,0 +1,7 @@
+Element: GRASS
+Power: 35
+Accuracy: 100
+PP: 15
+LOWERS: HP
+Status: NORMAL
+Percent: 0

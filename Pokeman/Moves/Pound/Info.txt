@@ -1,0 +1,7 @@
+Element: NORMAL
+Power: 35
+Accuracy: 100
+PP: 40
+LOWERS: HP
+Status: NORMAL
+Percent: 0

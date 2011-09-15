@@ -1,0 +1,11 @@
+Catch Rate: 5
+Speed: Fast
+Element1: ELECTRIC, Element2: NOTHING
+Base Stats: Special:50, Attack:55, Defense:30, Speed:90, HP:35
+Evolution: , Level:
+Base Exp: 65
+Moves:
+Thundershock: 0
+Growl: 0
+Volt Tackle: 10
+Thunderpunch: 15

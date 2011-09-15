@@ -1,0 +1,6 @@
+Element: FIRE
+Power: 40
+Accuracy: 100
+PP: 25
+Status: BURN
+Percent: 25

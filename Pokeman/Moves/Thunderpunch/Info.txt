@@ -1,0 +1,7 @@
+Element: ELECTRIC
+Power: 75
+Accuracy: 100
+PP: 15
+LOWERS: HP
+Status: PARALYZED
+Percent: 75

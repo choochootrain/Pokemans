@@ -1,0 +1,7 @@
+Element: ICE
+Power: 75
+Accuracy: 100
+PP: 15
+LOWERS: HP
+Status: FREEZE
+Percent: 75

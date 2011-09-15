@@ -1,0 +1,6 @@
+Element: ELECTRIC
+Power: 120
+Accuracy: 100
+PP: 15
+LOWERS: HP
+Status: Percent: 0

@@ -1,0 +1,7 @@
+Element: NORMAL
+Power: 80
+Accuracy: 0
+PP: 10
+RAISES: 
+HP
+Status: Percent: 0

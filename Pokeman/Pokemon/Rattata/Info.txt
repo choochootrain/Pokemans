@@ -1,0 +1,13 @@
+Catch Rate: 255
+Speed: Medium
+Element1: NORMAL, Element2: NOTHING
+Base Stats: Special:25, Attack:56, Defense:35, Speed:72, HP:30
+Evolution: , Level:
+Base Exp: 57
+Moves:
+Tackle: 0
+Tail Whip: 0
+Quick Attack: 7
+Hyper Fang: 14
+Focus Energy: 20
+Super Fang: 34

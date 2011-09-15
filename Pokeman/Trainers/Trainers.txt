@@ -1,0 +1,6 @@
+1001 1I really want to battle! after: Wow you beat me... pokemon: Meh 5,Duke 6
+1002 1Welcome to the leet Four. I will now own you. after: Good job, but you will have a harder time with the rest. pokemon: Meh 5,Magikarp 5
+1003 0I see you beat him. after: I will have my revenge! pokemon: Bulbasaur 7,Squirtle 7
+1004 2You have made it very far, but I am afraid that this is the end. after: Go on and get pwned by the Pokemon Master pokemon: Friger 9,Charmander 9
+1005 2You seem to have wet your pants. after: ZOMG you beat me! pokemon: Rattata 11,Duke 11
+1006 1I am lost... Help me. after: Feed me biatch pokemon: Ratatta 9,Bulbasaur 4

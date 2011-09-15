@@ -1,0 +1,7 @@
+Element: NORMAL
+Power: 1
+Accuracy: 100
+PP: 30
+RAISES: ATTACK
+Status: NORMAL
+Percent: 0

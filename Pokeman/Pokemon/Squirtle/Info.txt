@@ -1,0 +1,9 @@
+Catch Rate: 45
+Speed: Medium
+Element1: WATER, Element2: NOTHING
+Base Stats: Special:50, Attack:48, Defense:65, Speed:43, HP:44
+Evolution: , Level:
+Base Exp: 50
+Moves:
+Tackle: 0
+Tail Whip: 0

@@ -1,0 +1,11 @@
+1 - Regular collision
+2 - Jump Down
+3 - Jump Right
+4 - Jump Left
+5-49 Random things
+50-150 - Pokemon Regions
+(-4)-(-1) - Doors left right down up respectively
+-5 Pokemon Center
+-6 PokeMart
+-7 Pokemon
+-8 Item

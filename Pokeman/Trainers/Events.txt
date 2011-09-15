@@ -1,0 +1,1 @@
+-10 You have to get your pokemon first after: event: 0 do: 0:-500:-506 result: 0

@@ -1,0 +1,9 @@
+Catch Rate: 45
+Speed: Medium
+Element1: FIRE, Element2: NOTHING
+Base Stats: Special:50, Attack:52, Defense:43, Speed:65, HP:39
+Evolution: , Level:
+Base Exp: 65
+Moves:
+Tackle: 0
+Tail Whip: 0

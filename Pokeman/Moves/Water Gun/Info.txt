@@ -1,0 +1,6 @@
+Element: WATER
+Power: 40
+Accuracy: 100
+PP: 25
+LOWERS: HP
+Status: Percent: 0

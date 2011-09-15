@@ -1,0 +1,7 @@
+Element: WATER
+Power: 0
+Accuracy: 100
+PP: 30
+LOWERS: SPECIAL
+Status: NORMAL
+Percent: 0

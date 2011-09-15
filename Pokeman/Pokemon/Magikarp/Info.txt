@@ -1,0 +1,8 @@
+Catch Rate: 255
+Speed: Medium
+Element1: WATER, Element2: NOTHING
+Base Stats: Special:20, Attack:10, Defense:55, Speed:80, HP:20
+Evolution: , Level:
+Base Exp: 20
+Moves:
+Splash: 0

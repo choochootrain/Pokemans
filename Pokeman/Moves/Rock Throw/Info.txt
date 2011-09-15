@@ -1,0 +1,7 @@
+Element: ROCK
+Power: 50
+Accuracy: 90
+PP: 15
+LOWERS: HP
+Status: NORMAL
+Percent: 0

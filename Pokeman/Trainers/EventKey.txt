@@ -1,0 +1,5 @@
+Events: 0 no pokemon
+
+do: 0:x:y warp
+
+Results: 0 disapear
